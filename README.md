@@ -7,11 +7,11 @@ The agent has access to the game state, including inventory and environment, all
 
 ## Milestones
 
-🔹 **Milestone 1 — Basic Bot Control**  
+🔹 **Milestone 1 — Basic Bot Control** *(Deadline: 21.04)*  
 Implementation of a Minecraft agent capable of movement, resource collection, and crafting using predefined commands.
 
-🔹 **Milestone 2 — LLM Integration**  
+🔹 **Milestone 2 — LLM Integration** *(Deadline: 21.04)*  
 Integration of a local LLM responsible for interpreting user commands and generating structured action sequences.
 
-🔹 **Milestone 3 — System Integration**  
+🔹 **Milestone 3 — System Integration** *(Deadline: 02.06)*  
 Connection of the LLM with the Minecraft agent, enabling full execution of user-defined tasks within the game.
