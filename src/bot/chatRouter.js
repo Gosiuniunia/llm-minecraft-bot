@@ -9,7 +9,7 @@
  *   llm-bot inventory    → lists what the bot is carrying
  */
 
-import * as pathfinderPkg from "mineflayer-pathfinder";
+import pathfinderPkg from "mineflayer-pathfinder";
 const { pathfinder, goals, Movements } = pathfinderPkg;
 import { logger } from "../utils/logger.js";
 
