@@ -6,7 +6,7 @@
  * completes or errors, and after errors/kicks.
  */
 
-import * as pathfinderPkg from "mineflayer-pathfinder";
+import pathfinderPkg from "mineflayer-pathfinder";
 const { goals } = pathfinderPkg;
 import { logger } from "../utils/logger.js";
 

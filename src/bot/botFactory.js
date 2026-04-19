@@ -3,9 +3,9 @@
  */
 
 import mineflayer from "mineflayer";
-import * as pathfinderPkg from "mineflayer-pathfinder";
-import * as collectBlockPkg from "mineflayer-collectblock";
-import * as pvpPkg from "mineflayer-pvp";
+import pathfinderPkg from "mineflayer-pathfinder";
+import collectBlockPkg from "mineflayer-collectblock";
+import pvpPkg from "mineflayer-pvp";
 import { logger } from "../utils/logger.js";
 
 const { pathfinder, Movements } = pathfinderPkg;

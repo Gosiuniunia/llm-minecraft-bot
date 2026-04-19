@@ -8,7 +8,7 @@
  * - waits after craft for inventory to settle
  */
 
-import * as pathfinderPkg from "mineflayer-pathfinder";
+import pathfinderPkg from "mineflayer-pathfinder";
 const { goals } = pathfinderPkg;
 import { Vec3 } from "vec3";
 import { logger } from "../utils/logger.js";
